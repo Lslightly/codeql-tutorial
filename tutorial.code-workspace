@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "[go-gorm/gorm source archive]",
+			"uri": "codeql-zip-archive://0-112/home/codespace/.vscode-remote/data/User/workspaceStorage/78b3122c-2/GitHub.vscode-codeql/go-1/codeql_db/src.zip"
 		}
 	],
 	"settings":	{
